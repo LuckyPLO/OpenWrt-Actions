@@ -26,7 +26,8 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app
 # Clash插件
 git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
 # SmartDNS插件
-git clone https://github.com/pymumu/smartdns package/smartdns
+git clone https://github.com/pymumu/openwrt-smartdns
+git clone https://github.com/pymumu/luci-app-smartdns/tree/lede
 #强制关机插件
 git clone https://github.com/esirplayground/luci-app-poweroff package/luci-app-poweroff
 #自动关机插件
